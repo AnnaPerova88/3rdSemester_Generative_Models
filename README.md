@@ -1,4 +1,4 @@
-# 3rdSemester_Generative_Models
+# 3rdSemester_Generative_Models_VAE
 
 Домашнее задание №1 (vo_HW)
 Это домашнее задание состоит из двух частей:
